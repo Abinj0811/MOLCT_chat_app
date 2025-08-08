@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+openai
+langchain
+langchain-community
+langchain-openai
+langchain-core
+langchain-ollama
+faiss-cpu
+docling
+pandas
+openpyxl
+pdfplumber
+sqlite3-bro

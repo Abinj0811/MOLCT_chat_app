@@ -1,0 +1,210 @@
+{
+    "Page4_Committee": {
+        "MarineSafetyCommittee": {
+            "EXECUTIVE OFFICERS": {
+                "ChiefExecutiveOfficer": "○ (Member)",
+                "CorporateDepartments": "○ (Member)",
+                "CommercialDepartments": "○ (Member)",
+                "Operations": "○ (Member)",
+                "Marine": "◎ (Chairperson)",
+                "ShipManagement": "○ (Member)"
+            },
+            "GLOBAL/REGIONAL DIRECTORS": {
+                "BusinessGrowth–Asia": "△ (Sub-member)",
+                "BusinessGrowth–MiddleEast": "△ (Sub-member)",
+                "BusinessGrowth–Europe/Africa": "△ (Sub-member)",
+                "BusinessGrowth–Americas": "△ (Sub-member)"
+            }
+        },
+        "ShipManagementCommittee": {
+            "EXECUTIVE OFFICERS": {
+                "ChiefExecutiveOfficer": "○ (Member)",
+                "CorporateDepartments": "○ (Member)",
+                "CommercialDepartments": "○ (Member)",
+                "FleetandEnvironmentalStrategy": "○ (Member)",
+                "Operations": "○ (Member)",
+                "Marine": "○ (Member)",
+                "ShipManagement": "◎ (Chairperson)"
+            },
+            "GLOBAL/REGIONAL DIRECTORS": {
+                "BusinessGrowth–Asia": "△ (Sub-member)",
+                "BusinessGrowth–MiddleEast": "△ (Sub-member)",
+                "BusinessGrowth–Europe/Africa": "△ (Sub-member)",
+                "BusinessGrowth–Americas": "△ (Sub-member)"
+            }
+        },
+        "FleetStrategyCommittee": {
+            "EXECUTIVE OFFICERS": {
+                "ChiefExecutiveOfficer": "○ (Member)",
+                "CorporateDepartments": "○ (Member)",
+                "CommercialDepartments": "○ (Member)",
+                "FleetandEnvironmentalStrategy": "◎ (Chairperson)",
+                "Operations": "○ (Member)",
+                "Marine": "○ (Member)",
+                "ShipManagement": "○ (Member)"
+            },
+            "GLOBAL/REGIONAL DIRECTORS": {
+                "BusinessGrowth–Asia": "○ (Member)",
+                "BusinessGrowth–MiddleEast": "○ (Member)",
+                "BusinessGrowth–Europe/Africa": "○ (Member)",
+                "BusinessGrowth–Americas": "○ (Member)"
+            }
+        },
+        "BudgetCommittee": {
+            "EXECUTIVE OFFICERS": {
+                "ChiefExecutiveOfficer": "○ (Member)",
+                "CorporateDepartments": "◎ (Chairperson)",
+                "CommercialDepartments": "○ (Member)",
+                "FleetandEnvironmentalStrategy": "○ (Member)",
+                "Operations": "○ (Member)",
+                "Marine": "○ (Member)",
+                "ShipManagement": "○ (Member)"
+            },
+            "GLOBAL/REGIONAL DIRECTORS": {
+                "HumanCapital": "○ (Member)",
+                "InformationTechnology": "○ (Member)",
+                "GeneralAdministration": "○ (Member)",
+                "BusinessGrowth–Asia": "○ (Member)",
+                "BusinessGrowth–MiddleEast": "○ (Member)",
+                "BusinessGrowth–Europe/Africa": "○ (Member)",
+                "BusinessGrowth–Americas": "○ (Member)",
+                "EnterpriseTransformation": "○ (Member)",
+                "EnterpriseTransformation–EuropeandAmericas": "○ (Member)"
+            }
+        },
+        "HumanCapitalCommittee": {
+            "EXECUTIVE OFFICERS": {
+                "ChiefExecutiveOfficer": "○ (Member)",
+                "CorporateDepartments": "○ (Member)",
+                "CommercialDepartments": "○ (Member)",
+                "ShipManagement": "○ (Member)"
+            },
+            "GLOBAL/REGIONAL DIRECTORS": {
+                "HumanCapital": "◎ (Chairperson)",
+                "EnterpriseTransformation": "○ (Member)",
+                "EnterpriseTransformation–EuropeandAmericas": "○ (Member)"
+            }
+        },
+        "DXCommittee": {
+            "EXECUTIVE OFFICERS": {
+                "ChiefExecutiveOfficer": "○ (Member)",
+                "CorporateDepartments": "○ (Member)",
+                "CommercialDepartments": "○ (Member)",
+                "ShipManagement": "○ (Member)"
+            },
+            "GLOBAL/REGIONAL DIRECTORS": {
+                "InformationTechnology": "◎ (Chairperson)"
+            }
+        }
+    },
+    "Page5_Table1": {
+        "MarineSafetyCommittee(2)": {
+            "Marine": [
+                "● (Secretariat)"
+            ]
+        },
+        "ShipManagementCommittee": {
+            "ShipManagement": [
+                "● (Secretariat)"
+            ]
+        },
+        "FleetStrategyCommittee(2)": {
+            "FleetStrategy": [
+                "● (Secretariat)"
+            ]
+        },
+        "BudgetCommittee(2)": {
+            "InternalAudit": [
+                "○ (Member)"
+            ],
+            "GroupPlanningandManagement": [
+                "○ (Member)"
+            ],
+            "GlobalHumanResources": [
+                "○ (Member)"
+            ],
+            "HumanResourcesSingapore": [
+                "○ (Member)"
+            ],
+            "GroupAccountingandFinance": [
+                "● (Secretariat)"
+            ],
+            "DX&ApplicationSolution": [
+                "○ (Member)"
+            ],
+            "InfrastructureandCyberSecurity": [
+                "○ (Member)"
+            ],
+            "ShipManagementAccounting": [
+                "○ (Member)"
+            ],
+            "GeneralAdministration": [
+                "○ (Member)"
+            ],
+            "FleetStrategy": [
+                "○ (Member)"
+            ],
+            "EnvironmentalStrategy": [
+                "○ (Member)"
+            ],
+            "BusinessStrategy": [
+                "○ (Member)"
+            ],
+            "GlobalStrategicAllocation": [
+                "○ (Member)"
+            ],
+            "CharteringAsiaEast": [
+                "○ (Member)"
+            ],
+            "CharteringAsiaWest": [
+                "○ (Member)"
+            ],
+            "CharteringMiddleEast": [
+                "○ (Member)"
+            ],
+            "CharteringEuropeEast": [
+                "○ (Member)"
+            ],
+            "CharteringEuropeWest": [
+                "○ (Member)"
+            ],
+            "CharteringAmericasEast": [
+                "○ (Member)"
+            ],
+            "CharteringAmericasWest": [
+                "○ (Member)"
+            ],
+            "OperationsDeptEast": [
+                "○ (Member)"
+            ],
+            "OperationsDeptWest": [
+                "○ (Member)"
+            ],
+            "PostFixture": [
+                "○ (Member)"
+            ],
+            "Marine": [
+                "○ (Member)"
+            ],
+            "Technical": [
+                "○ (Member)"
+            ],
+            "ShipManagement": [
+                "○ (Member)"
+            ],
+            "EnterpriseTransformation": [
+                "○ (Member)"
+            ]
+        },
+        "HumanCapitalCommittee": {
+            "GlobalHumanResources": [
+                "● (Secretariat)"
+            ]
+        },
+        "DXCommittee": {
+            "DX&ApplicationSolution": [
+                "● (Secretariat)"
+            ]
+        }
+    }
+}
